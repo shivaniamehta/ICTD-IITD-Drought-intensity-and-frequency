@@ -1,2 +1,2 @@
-# ICTD-IITD-Drought-intensity-and-frequency
+# ICTD-IITD: Drought-intensity-and-frequency
 Team members: Rittwick, Tirumal
